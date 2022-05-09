@@ -39,4 +39,4 @@ There is an .ipynb file of the project called AnyoneAI_Project_2.ipynb with all 
 ## Previous Part
 
 In the previous repository, I did the first steps before performing an ML model where I had to collect information, data cleaning and preprocessing, and visualize data.  
-Link: [enter link description here](https://github.com/Gonzalez-Matias/Anyone_Sprint_1.git)
+Link: [Anyone_Sprint_1](https://github.com/Gonzalez-Matias/Anyone_Sprint_1.git)
