@@ -2,7 +2,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-dVcJLNeI7NdoFRskqhW5QFdg1SAwxVgGMg&usqp=CAU"/>
 </p>
 
-# NBA Sprint Project ML model
+# NBA Sprint Project: ML model
 
 The goals of this part of the project are:
 
